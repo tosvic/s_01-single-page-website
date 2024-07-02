@@ -114,6 +114,10 @@ li {
     color: #5af066;
 }
 
+.connect p{
+    padding-bottom: 10px;
+}
+
 a {
     color: #3498db;
     text-decoration: none;
@@ -124,6 +128,12 @@ a:hover {
     text-decoration: underline;
     color: #5af066;
 }
+
+#day {
+    font-weight: bolder;
+}
+
+
 
 /* Media Queries for Mobile Responsiveness */
 
