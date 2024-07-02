@@ -148,7 +148,7 @@ a:hover {
 
 }
 
-.foot h2 {
+.foot h6 {
     color: #5af066;
 }
 
@@ -184,7 +184,7 @@ a:hover {
         flex-direction: column;
     }
 
-    .foot-link{
+    .foot-link1{
         display: flex;
         flex-direction: column;
         gap: 8px;
